@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🧠 That I know and use
+## That I know and use
 - HTML, CSS, Javascript
 - Asp.Net MVC (C#)
 - MS SQL 
