@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## 🧠 That I know and use
+- HTML, CSS, Javascript
+- Asp.Net MVC (C#)
+- MS SQL 
+- Python (beginner)
+
+### 🔧 Tool
+- Version Control(Git/Sourcetree)
+
+## 🔗 Get in touch
+[Medium- 紀錄我的軟體測試學習筆記](https://medium.com/@catcat_luna)
 <!--
 **catcatluna/catcatluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
