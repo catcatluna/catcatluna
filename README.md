@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 這是我記錄Python 學習過程的小地方
 
 ## That I know and use
 - HTML, CSS, Javascript
